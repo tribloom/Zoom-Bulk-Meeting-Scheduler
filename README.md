@@ -17,9 +17,9 @@ Note: Excel file should be named 'meeting-info.xlsx' and be in the same director
 
 Example Excel Data:
 
-| Agenda     |                   |         |              |              |             |              |             |            |          |                         |
-| ---------- | ----------------- | ------- | ------------ | ------------ | ----------- | ------------ | ----------- | ---------- | -------- | ----------------------- |
+
 | Group Name | Zoom Username     | Topic   | Meeting Date | Meeting Time | Duration Hr | Duration Min | Meeting URL | Meeting ID | Passcode | Number of Times to Meet |
+| ---------- | ----------------- | ------- | ------------ | ------------ | ----------- | ------------ | ----------- | ---------- | -------- | ----------------------- |
 | Agenda 1   | <zoom user email> | topic 1 | 2/22/2024    | 1600         | 0           | 90           |             |            | 1234     | 1                       |
 | Agenda 2   | <zoom user email> | topic 2 | 2/22/2024    | 1130         | 1           | 30           |             |            |          | 2                       |
 
